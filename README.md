@@ -328,4 +328,6 @@ A service you can inject in your controller to show the filter bar
 <img src="demo/resources/screenshots/android2.png" align="left" height="500" width="281" >
 <img src="demo/resources/screenshots/android3.png" align="left" height="500" width="281" >
 
+yes!!
+
 

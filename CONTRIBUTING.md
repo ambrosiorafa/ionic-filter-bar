@@ -1,2 +1,1 @@
-estamos ai 
-Fique à vontade para contribuir no projeto.
+estamos ai Fique à vontade para contribuir no projeto.

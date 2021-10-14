@@ -1,6 +1,6 @@
 <img src="demo/resources/icon.png" align="left" height="85" width="85">
 
-#Ionic Filter Bar RIDIMI ALTERADO COM SUCESSO!
+#Ionic Filter Bar
 >A platform specific search filter plugin for the Ionic Framework (iOS / Android)
 >Based on AngularJS and Material Design.
 
@@ -10,7 +10,7 @@
  - [Usage](#usage)
  - [Screenshots](#screenshots)
 
-## Demo do RIDIMI
+## Demo
 
 - Watch the Demo video below
 

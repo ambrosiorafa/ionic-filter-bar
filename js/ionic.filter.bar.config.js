@@ -1,6 +1,6 @@
 /* global angular */
 /**
- * This copies the functionality of the ionicConfig provider to allow for platform specific configuration
+ * Isso copia a funcionalidade do provedor ionicConfig para permitir a configuração específica da plataforma
  * porra precisava de mais explicação nessa linha, moro!?
  */
 (function (angular) {
@@ -125,7 +125,7 @@
         });
       }
 
-      //splits a string by dot operator and accesses the end var.  For example in a.b.c,
+      //splits a string by dot operator and accesses the end var. For example in a.b.c,
       function stringObj(obj, str) {
         str = str.split(".");
         for (var i = 0; i < str.length; i++) {
